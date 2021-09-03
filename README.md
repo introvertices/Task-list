@@ -1,2 +1,2 @@
 # Task-list
-AA simple task list with an rpg spin (WIP)
+A simple task list with an rpg spin (WIP)
