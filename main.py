@@ -1,11 +1,14 @@
 import math
 import os
+from itertools import count, cycle
+import json
+
+#MUST BE INSTALLED VIA PIP
+
 import tkinter
 from tkinter import *
 from tkinter import messagebox
 from PIL import Image, ImageTk
-from itertools import count, cycle
-import json
 
 
 #-------------------------------------------------------------------------------
